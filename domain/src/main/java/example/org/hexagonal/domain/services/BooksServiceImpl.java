@@ -1,7 +1,7 @@
-package services;
+package example.org.hexagonal.domain.services;
 
-import data.Book;
-import repo.BooksRepository;
+import example.org.hexagonal.domain.data.Book;
+import example.org.hexagonal.domain.repo.BooksRepository;
 
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package services;
+package example.org.hexagonal.domain.services;
 
 import java.util.UUID;
 

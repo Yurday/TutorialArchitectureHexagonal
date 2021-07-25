@@ -1,6 +1,6 @@
-package repo;
+package example.org.hexagonal.domain.repo;
 
-import data.Book;
+import example.org.hexagonal.domain.data.Book;
 
 import java.util.UUID;
 

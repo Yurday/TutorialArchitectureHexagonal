@@ -1,3 +1,11 @@
+package example.org.hexagonal.application;
+
+import example.org.hexagonal.domain.services.BooksService;
+import org.apache.commons.lang3.StringUtils;
+
+import java.io.Console;
+import java.util.UUID;
+
 public class ConsoleApp {
 
     private final Console console;

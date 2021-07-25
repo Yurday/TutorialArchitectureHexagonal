@@ -1,6 +1,6 @@
-package services;
+package example.org.hexagonal.domain.services;
 
-import repo.BooksRepository;
+import example.org.hexagonal.domain.repo.BooksRepository;
 
 public class BooksServiceFactory {
     public static BooksService getBooksService(BooksRepository booksRepository) {

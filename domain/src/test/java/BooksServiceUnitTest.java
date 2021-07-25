@@ -6,9 +6,9 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 import org.mockito.junit.jupiter.MockitoExtension;
-import repo.BooksRepository;
-import services.BooksService;
-import services.BooksServiceFactory;
+import example.org.hexagonal.domain.repo.BooksRepository;
+import example.org.hexagonal.domain.services.BooksService;
+import example.org.hexagonal.domain.services.BooksServiceFactory;
 
 import java.util.UUID;
 

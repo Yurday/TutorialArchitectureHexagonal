@@ -1,4 +1,4 @@
-package data;
+package example.org.hexagonal.domain.data;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
